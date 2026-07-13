@@ -15,5 +15,3 @@ Im A student <br>I love tech<br>I write random code for random stuff<br>I love a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=HostApple&icon=0&color=0)](https://visitcount.itsvg.in)
