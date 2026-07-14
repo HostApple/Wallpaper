@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im A student <br>I love tech<br>I write random code for random stuff<br>I love anime
+Im A student <br>I love tech<br>I write random code for random stuff<br>I love anime xD
 
 
 ## 🌐 Socials:
